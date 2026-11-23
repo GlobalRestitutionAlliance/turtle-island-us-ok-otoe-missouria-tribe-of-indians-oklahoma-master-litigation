@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+OTOE+MISSOURIA+TRIBE+OF+INDIANS+OKLAHOMA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+OTOE+MISSOURIA+TRIBE+OF+INDIANS+OKLAHOMA",
+  "title": "Federal Register - OK OTOE MISSOURIA TRIBE OF INDIANS OKLAHOMA",
+  "fetched_at": "2026-11-23T18:11:12.467567Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 190847,
+  "sha256": "2d138283333db27d5d779d2fda734bc6a39da23d21499757832bc9e9d443c4f2",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
